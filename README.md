@@ -1,8 +1,1 @@
-body {
-background-color: lightblue;
-}
-
-h1 {
-color: navy;
-margin-left: 20px;
-}
+Hello World repository serves as an example to learn GIT
